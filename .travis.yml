@@ -1,0 +1,32 @@
+language: node_js
+node_js:
+    - 10
+cache: npm
+# blocklist
+branches:
+  except:
+  - 
+  - 
+
+services:
+  - gql
+  - redis-server
+  - postgresql
+
+# safelist
+branches:
+  only:
+  - master
+  - 
+before_install:
+  # Linux Repo Install (UBUNTU)
+
+
+
+
+
+before_script:
+  # Before running the build script(where the dockerCLI config goes)
+
+
+  
