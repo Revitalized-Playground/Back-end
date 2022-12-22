@@ -35,7 +35,7 @@
     "graphql-cli": "^3.0.14",
     "graphql-yoga": "^1.18.3",
     "iplocation": "^6.1.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "node-geocoder": "^3.24.0",
     "passport": "^0.4.0",
     "passport-facebook": "^3.0.0",
